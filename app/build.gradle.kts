@@ -14,7 +14,7 @@ android {
 
     defaultConfig {
         applicationId = "com.mucheng.mucute.client"
-        minSdk = 28
+        minSdk = 27
         //noinspection EditedTargetSdkVersion
         targetSdk = 35
         versionCode = 1
