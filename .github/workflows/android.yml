@@ -34,9 +34,6 @@ jobs:
     - name: clean
       run: ./gradlew clean
       
-    - name: debug
-      run: ./gradlew assembleDebug
-      
     - name: Build release
       run: ./gradlew assembleRelease
 
@@ -45,5 +42,4 @@ jobs:
       with:
         name: release-apk
         path: app/build/outputs/apk/release/app-release.apk
-        name: debug-apk
-        path: app/build/outputs/apk/release/app-debug.apk
+        
