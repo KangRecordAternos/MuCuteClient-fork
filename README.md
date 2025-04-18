@@ -20,17 +20,6 @@ Relay: https://github.com/RadiantByte/MuCuteRelay
 
 ---
 
-## 📱 Platform Support
-
-- Supports all **Minecraft Bedrock Edition platforms** through MITM:
-  - **Android**
-  - **iOS**
-  - **Windows 10 & 11**
-  - **Nintendo Switch**
-  - **Xbox (limited support)**
-
----
-
 ## License
 
 MuCuteClient is licensed under the **GNU General Public License v3.0 (GPLv3)**.
